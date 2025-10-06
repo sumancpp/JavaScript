@@ -13,6 +13,7 @@ const allHostelers = [...first_year,...second_year];
 console.log(allHostelers);
 This is same as 'concat' process.Most of the cases we use it.Because it can add more than two array.
 
+
 const Array = [1, 2, 3,[4, 5], 6, [7, [8, 9]]];
 console.log(Array.flat(Infinity));
 'flat' gives a single array. 
