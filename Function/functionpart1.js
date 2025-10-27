@@ -31,6 +31,7 @@ function loginUserMassage(username = "Ram"){
      return `${username} just logged in`;
 }
 
+
 // console.log(loginUserMassage("Suman"));
 console.log(loginUserMassage());
 
