@@ -13,8 +13,10 @@
 
 
 //+++++++++++++Do While+++++++++++++
+
 let score = 10;
 do {
     console.log(`Score is ${score}`);
     score--;
 } while (score > 0);
+
