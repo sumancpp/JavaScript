@@ -4,6 +4,7 @@
 //     index = index + 2;
 // }
 
+
 // let myArray = ["Suman", "Akash", "Mehfooz"]
 // let arr = 0;
 // while (arr < myArray.length) {
