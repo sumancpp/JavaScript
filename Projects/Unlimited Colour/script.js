@@ -24,5 +24,4 @@ const stopChanging = function (){
 }
 
 document.querySelector('#start').addEventListener('click', startChanging)
-
 document.querySelector('#stop').addEventListener('click', stopChanging)
