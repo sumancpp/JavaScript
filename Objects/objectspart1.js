@@ -34,7 +34,7 @@ jsUser.grettings = function(){
 
 jsUser.grettingsTwo = function(){
     console.log(`Hello JS user, ${this["full name"]}` );
-    
+   
 }
 console.log(jsUser.grettings());
 console.log(jsUser.grettingsTwo());
