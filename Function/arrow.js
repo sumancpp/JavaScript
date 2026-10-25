@@ -9,6 +9,7 @@ const user = {
     }
 }
 
+
 // user.welcomeMassage();
 // user.userName = "Akash";
 // user.welcomeMassage();
