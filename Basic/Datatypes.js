@@ -1,6 +1,6 @@
 "use stirct"// treat all js code as a newer version of js
 
-//alert( 3 + 4 );//we are using nose.js not brower
+//alert( 3 + 4 );//we are using node.js not brower
 
 /*
 There are severl data types.
