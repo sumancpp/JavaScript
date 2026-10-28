@@ -1,7 +1,7 @@
 //variables
 const userId = 12345;
 let userEmail = "suman@google.com";
-var userPassword = "123abc";
+var userPassword = "123abcd";
 userCity = "jaypur";//this is also a way to declare a variable but we avoid it.
 let userState;
 //userId = 9876;//not allowed
