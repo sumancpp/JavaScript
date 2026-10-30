@@ -1,5 +1,4 @@
-const name = "Suman";
-
+const name = "Suman";
 const age = 21;
 
 /* console.log(name + age);
