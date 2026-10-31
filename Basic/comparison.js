@@ -21,7 +21,7 @@ console.log(undefined < 0);
 // === (it also check the datatypes)
 
 
-console.log("02" === 2);
+console.log("03" === 3);
 
 
 
