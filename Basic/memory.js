@@ -5,8 +5,7 @@
 // Heap -> Use in non-primitive datatypes
 
 
-let myName = "Suman";
-
+let myName = "Suman";
 let newName = myName;
 
 newName = "Riju";
