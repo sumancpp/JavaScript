@@ -39,6 +39,7 @@ console.log(newStringOne.trim());
 
 const url = "https://suman.com%20";
 console.log(url.replace('%20','.lerner'));
+
 console.log(url.includes('rita'));
 
 console.log(gameName.split('-'));
