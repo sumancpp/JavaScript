@@ -62,7 +62,7 @@
 let num1, num2, num3;
 num1 = num2 = num3 = 2*2; //dont do this kind of code. Your code must be redable.Find the easy way to write code.
 
-let number = 10;
+let number = 5;
 number++;
 console.log(++number);
 
