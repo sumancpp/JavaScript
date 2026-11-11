@@ -29,7 +29,7 @@ console.log(names);
 
 let myObj = {
     name : "Suman",
-    age : 21,
+    age : 22,
 }
 
 console.log(myObj);
